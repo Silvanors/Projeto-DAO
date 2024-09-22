@@ -3,7 +3,7 @@
 ## Passos estruturantes para criação:
 
 ### Nomeie a DAO:
-- Healthistory 
+-A DAO se chamará "Healthistory" 
 
 ### Declaração da missão:
 - "...Nossa missão é revolucionar o cuidado à saúde ao garantir que históricos e exames médicos estejam sempre ao alcance de pacientes e profissionais de saúde, promovendo decisões clínicas mais assertivas e um atendimento personalizado. Acreditamos que o poder dos dados é capaz de transformar vidas, evitando erros, acelerando diagnósticos e elevando a qualidade dos tratamentos, tudo em favor do bem-estar e da saúde de cada indivíduo..."
